@@ -1,1 +1,1 @@
-web: node server.js --port=$PORT --token=$TOKEN --webhook=$WEBHOOK -norage
+web: node server.js --port=$PORT --token=$TOKEN --webhook=$WEBHOOK --norage
